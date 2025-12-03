@@ -19,4 +19,5 @@ python3 zetas.py
 from PIL import Image, ImageTk
 
 foto = ImageTk.PhotoImage(Image.open("/home/zetassavage/Resimler/Screenshot_2025-12-03_15_48_43.png"))
-Label(pencere, image=foto).pack()
+Label(<img width="1920" height="1080" alt="Screenshot_2025-12-03_15_48_43" src="https://github.com/user-attachments/assets/3855d5ea-ce88-40ad-840f-6e9ec9436eee" />
+).pack()
